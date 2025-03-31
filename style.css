@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;  
+    margin: auto;
+   
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+nav{
+    padding: 20px 0;
+}
+ul{
+    list-style-type:none;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+}
+
+
+ul.flex{
+    gap: 40px;
+}
+
+.active{
+    font-weight: bold;
+}
+.nav-like{
+
+    font-size: 18px;
+    color: #1F1534;
+    text-transform: capitalize;
+
+}
+
+.parant{
+   
+    padding: 20px 0;
+    width: 80%;  
+    margin: auto;
+   
+  
+}
+.title-para-button{
+    width: 100%;
+    max-width: 455px;
+    max-height: 338px;
+}
+
+ .title-para-button h2{
+   
+    height: 70px;
+    width: 200px;
+
+   
+}
+ .title-para-button p{
+
+   
+    height: 80px;
+    width: 300px;
+
+   
+}
+.title-para-button button{
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.title-para-button button:hover{
+    background-color: rgb(6, 6, 96);
+}
