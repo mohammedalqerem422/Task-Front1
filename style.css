@@ -208,11 +208,11 @@ ul.flex{
     -o-border-radius: 55px;
     width: 200px;
     height: 60px;
-    color: #FFFFFF;
+    color: #458FF6;
     outline: none;
-    border:1.4px;
+    border:1.4px solid #458FF6;
     margin:  70px;
-    background-color: #458FF6;
+    background-color: white;
 }
 
 .img-back{
@@ -220,3 +220,5 @@ ul.flex{
     left: 0px;
     
 }
+
+
