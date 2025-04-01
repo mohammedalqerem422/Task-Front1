@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
@@ -129,6 +133,7 @@ ul.flex{
     font-size: 18px;
     font-weight: 300;
     text-align: center;
+    font-family: "Mulish", sans-serif;
  }
 
  .all-box{
@@ -180,15 +185,20 @@ ul.flex{
  }
  .box h5{
     margin-bottom: 10px;
+   
+    width: 200px;
+    font-weight: 700;
+    font-size: 24px;
  }
 
  .boss-parant{
-    
-    width: 1675px;
+   
+    width: 100%;
     height: 1133px;
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
  }
  .button-box{
     border-radius: 55px;
@@ -203,4 +213,10 @@ ul.flex{
     border:1.4px;
     margin:  70px;
     background-color: #458FF6;
+}
+
+.img-back{
+    position: absolute;
+    left: 0px;
+    
 }
