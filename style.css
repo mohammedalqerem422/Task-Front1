@@ -312,6 +312,68 @@ ul.flex{
 }
 
 
+.parant-seciont3{
+    width: 1273px;
+    height: 434px;
+    display: flex;
+    align-items: center;
+   
+}
+
+.boss-section3{
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.parant-section3-title-para{
+    width: 463px;
+    height: 375px;
+    position: relative;
+    bottom: -70px;
+   
+ 
+}
+
+
+.parant-section3-title-para h3{
+    
+    width: 280px;
+    height: 96px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.parant-section3-title-para p{
+    width: 365px;
+    height: 120px;
+    margin-top: 10px;
+}
+.btn{
+    position: relative;
+    width: 220px;
+    height: 56px;
+    background-color: white;
+    border-radius: 55px;
+    border: #458FF6 1.4px solid;
+    -webkit-border-radius: 55px;
+    -moz-border-radius: 55px;
+    -ms-border-radius: 55px;
+    -o-border-radius: 55px;
+}
+
+.position-span{
+    position: relative;
+    right: -20px;
+    bottom: -3px;    
+    
+
+}
+
+.picture-section3{
+    margin-left: 100px;
+}
 
 
 
