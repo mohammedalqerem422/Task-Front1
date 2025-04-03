@@ -443,6 +443,12 @@ ul.flex{
 .photo-section4 img{
     width: 141px;
     height: 141px;
+    border: #ffffff solid ;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
 
 .title-para-section4 h4{
