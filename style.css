@@ -26,6 +26,10 @@ button:hover{
    
 }
 
+.photo-header{
+    width: 100%;
+}
+
 .flex{
     display: flex;
     justify-content: space-between;
